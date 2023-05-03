@@ -1,32 +1,28 @@
 # Change these first
 owner: mapmaker-workshop-tools  # Your GitHub organization or username, where this repository lives
-repo: Status-Page # The name of this repository
+repo: upptime # The name of this repository
 assignees:
   - two-trick-pony-NL
 
 
 sites:
   - name: Production
-    url: https://mapmaker.nl/api/v1/
+    url: https://mapmaker.nl
   - name: Triage (development)
-    url: https://triage.mapmaker.nl/api/v1/
-  - name: Nginx
-    url: https://mapmaker.nl/healthcheck
-  - name: Status Page
+    url: https://triage.mapmaker.nl
+  - name: Status page
     url: https://status.mapmaker.nl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.mapmaker.nl
+  logoUrl: https://raw.githubusercontent.com/mapmaker-workshop-tools/Status-Page/master/assets/mapmaker_logo.png
   name: Mapmaker Status page
-  favicon: https://avatars.githubusercontent.com/u/132359810?s=200&v=4
-  logoUrl: https://mapmaker.nl/static/images/mapmaker_logo.png
-
   introTitle: "**Status page**"
   introMessage: "This is the status page for Mapmaker. Check the associated issues in case of downtime."
   theme: light
-  css: "body {background-color: #fafafa;} nav { background-color: #fae050 }"
+  css: "body {background-color: #fafafa; nav-background-color: #002b29;}"
   navbar:
     - title: Status
       href: /
