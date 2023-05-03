@@ -10,6 +10,8 @@ sites:
     url: https://mapmaker.nl/api/v1/
   - name: Triage (development)
     url: https://triage.mapmaker.nl/api/v1/
+  - name: Nginx
+    url: https://mapmaker.nl/healthcheck
   - name: Status Page
     url: https://status.mapmaker.nl
 
