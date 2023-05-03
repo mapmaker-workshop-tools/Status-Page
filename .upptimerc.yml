@@ -1,50 +1,21 @@
 # Change these first
-owner: two-trick-pony-NL  # Your GitHub organization or username, where this repository lives
+owner: mapmaker-workshop-tools  # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 assignees:
   - two-trick-pony-NL
 
 
 sites:
-  - name: petervandoorn.com
-    url: https://petervandoorn.com
-  - name: Corina Horstman
-    url: https://corinahorstman.nl
-  - name: Mapmaker [prod]
-    url: https://mapmaker.nl/api/v1
-  - name: Mapmaker [dev]
-    url: https://triage.mapmaker.nl/api/v1
-  - name: Citizen Science
-    url: https://www.petervandoorn.com/cs-nl-network/
-  - name: Photo Scavenger
-    url: https://photoscavenger.vdotvo9a4e2a6.eu-central-1.cs.amazonlightsail.com/healthcheck
-  - name: Keer Zeven
-    url: https://keerzeven.nl/
-  - name: bunq
-    url: https://bunq.com/
-  - name: slack
-    url: https://status.slack.com/api/v2.0.0/current
-  - name: Luce
-    url: https://webmail.lucevankempen.nl
-  - name: Doete
-    url: https://webmail.doetevandoorn.com
-  - name: Google
-    url: https://google.com
-  - name: Reddit
-    url: https://reddit.com
-  - name: Whatsapp
-    url: https://web.whatsapp.com
-  - name: Lightsail (AWS)
-    url: https://lightsail.aws.amazon.com
+  - name: Production
+    url: https://mapmaker.nl
+  - name: Triage (development)
+    url: https://triage.mapmaker.nl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #baseUrl: /upptime
-  cname: upptime.petervandoorn.com # Custom domain CNAME
-  favicon: https://raw.githubusercontent.com/two-trick-pony-NL/petervandoorn.com/master/favicon.ico
-  logoUrl: https://raw.githubusercontent.com/two-trick-pony-NL/petervandoorn.com/master/images/icon.png
-  name: Peter van Doorn Status Page
+  baseUrl: /upptime
+  name: Mapmaker Status page
   introTitle: "**Status page**"
   introMessage: "This is the status page for my projects. If any service goes down I get notified instantly. Check out the issues for details"
   theme: light
@@ -53,7 +24,7 @@ status-website:
     - title: Status
       href: /
     - title: Incident Issues
-      href: https://github.com/two-trick-pony-NL/upptime/issues?q=is%3Aissue+is%3Aopen
+      href: https://github.com/mapmaker-workshop-tools/upptime/issues?q=is%3Aissue+is%3Aopen
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
