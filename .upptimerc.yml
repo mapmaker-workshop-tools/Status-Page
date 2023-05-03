@@ -19,7 +19,7 @@ status-website:
   introTitle: "**Status page**"
   introMessage: "This is the status page for Mapmaker. Check the associated issues in case of downtime."
   theme: light
-  css: "body {background-color: #fafafa;}"
+  css: "body {background-color: #fafafa; nav-background-color: #fae050;}"
   navbar:
     - title: Status
       href: /
