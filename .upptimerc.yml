@@ -17,7 +17,7 @@ status-website:
   baseUrl: /upptime
   name: Mapmaker Status page
   introTitle: "**Status page**"
-  introMessage: "This is the status page for my projects. If any service goes down I get notified instantly. Check out the issues for details"
+  introMessage: "This is the status page for Mapmaker. Check the associated issues in case of downtime."
   theme: light
   css: "body {background-color: #fafafa;}"
   navbar:
