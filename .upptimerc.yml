@@ -18,6 +18,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.mapmaker.nl
   name: Mapmaker Status page
+  favicon: https://avatars.githubusercontent.com/u/132359810?s=200&v=4
+  logoUrl: https://mapmaker.nl/static/images/mapmaker_logo.png
+
   introTitle: "**Status page**"
   introMessage: "This is the status page for Mapmaker. Check the associated issues in case of downtime."
   theme: light
