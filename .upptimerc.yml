@@ -6,10 +6,12 @@ assignees:
 
 
 sites:
-  - name: Production
+  - name: Django - Production
     url: https://mapmaker.nl
-  - name: Triage (development)
+  - name: Django - Triage 
     url: https://triage.mapmaker.nl
+  - name: NGINX
+    url: https://mapmaker.nl/healthcheck
   - name: Status page
     url: https://status.mapmaker.nl
 
