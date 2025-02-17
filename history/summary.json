@@ -4,19 +4,19 @@
     "url": "https://mapmaker.nl",
     "icon": "https://icons.duckduckgo.com/ip3/mapmaker.nl.ico",
     "slug": "django-production",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 683,
-    "timeDay": 1439,
-    "timeWeek": 856,
-    "timeMonth": 761,
+    "time": 684,
+    "timeDay": 1263,
+    "timeWeek": 862,
+    "timeMonth": 766,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2025-02-17": 0
+      "2025-02-17": 12
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://triage.mapmaker.nl",
     "icon": "https://icons.duckduckgo.com/ip3/triage.mapmaker.nl.ico",
     "slug": "django-triage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 688,
-    "timeDay": 1207,
-    "timeWeek": 822,
+    "timeDay": 1101,
+    "timeWeek": 830,
     "timeMonth": 868,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2025-02-17": 0
+      "2025-02-17": 12
     }
   },
   {
