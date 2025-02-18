@@ -6,18 +6,16 @@
     "slug": "django-production",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 684,
-    "timeDay": 1263,
-    "timeWeek": 862,
-    "timeMonth": 766,
+    "time": 683,
+    "timeDay": 1216,
+    "timeWeek": 861,
+    "timeMonth": 758,
     "timeYear": 681,
-    "dailyMinutesDown": {
-      "2025-02-17": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Django - Triage",
@@ -26,18 +24,16 @@
     "slug": "django-triage",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 688,
-    "timeDay": 1101,
-    "timeWeek": 830,
-    "timeMonth": 868,
-    "timeYear": 689,
-    "dailyMinutesDown": {
-      "2025-02-17": 12
-    }
+    "timeDay": 1070,
+    "timeWeek": 828,
+    "timeMonth": 730,
+    "timeYear": 690,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NGINX",
@@ -51,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 111,
-    "timeWeek": 117,
-    "timeMonth": 120,
+    "timeDay": 90,
+    "timeWeek": 116,
+    "timeMonth": 119,
     "timeYear": 118,
     "dailyMinutesDown": {}
   },
@@ -69,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 135,
-    "timeWeek": 110,
-    "timeMonth": 140,
+    "timeDay": 77,
+    "timeWeek": 111,
+    "timeMonth": 134,
     "timeYear": 137,
     "dailyMinutesDown": {}
   }
