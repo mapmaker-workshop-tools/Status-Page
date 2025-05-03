@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mapmaker.nl.ico",
     "slug": "django-production",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "38.51%",
+    "uptimeWeek": "91.22%",
+    "uptimeMonth": "97.98%",
+    "uptimeYear": "99.83%",
     "time": 683,
-    "timeDay": 548,
-    "timeWeek": 684,
-    "timeMonth": 707,
-    "timeYear": 688,
+    "timeDay": 0,
+    "timeWeek": 647,
+    "timeMonth": 709,
+    "timeYear": 687,
     "dailyMinutesDown": {
-      "2025-05-02": 0
+      "2025-05-03": 54,
+      "2025-05-02": 831
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/triage.mapmaker.nl.ico",
     "slug": "django-triage",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "38.51%",
+    "uptimeWeek": "91.22%",
+    "uptimeMonth": "97.98%",
+    "uptimeYear": "99.83%",
     "time": 687,
-    "timeDay": 565,
-    "timeWeek": 679,
-    "timeMonth": 688,
+    "timeDay": 0,
+    "timeWeek": 645,
+    "timeMonth": 692,
     "timeYear": 694,
     "dailyMinutesDown": {
-      "2025-05-02": 0
+      "2025-05-03": 54,
+      "2025-05-02": 831
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mapmaker.nl.ico",
     "slug": "nginx",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "38.51%",
+    "uptimeWeek": "91.22%",
+    "uptimeMonth": "97.98%",
+    "uptimeYear": "99.83%",
     "time": 117,
-    "timeDay": 97,
-    "timeWeek": 110,
-    "timeMonth": 117,
-    "timeYear": 118,
+    "timeDay": 0,
+    "timeWeek": 105,
+    "timeMonth": 118,
+    "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-05-02": 0
+      "2025-05-03": 54,
+      "2025-05-02": 831
     }
   },
   {
@@ -71,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 144,
-    "timeWeek": 148,
-    "timeMonth": 158,
+    "timeDay": 160,
+    "timeWeek": 140,
+    "timeMonth": 159,
     "timeYear": 144,
     "dailyMinutesDown": {}
   }
