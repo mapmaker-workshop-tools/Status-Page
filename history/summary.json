@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mapmaker.nl.ico",
     "slug": "django-production",
     "status": "down",
-    "uptime": "66.72%",
+    "uptime": "66.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.37%",
-    "time": 704,
+    "uptimeYear": "0.09%",
+    "time": 703,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 548,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-01": 127,
+      "2026-05-02": 115,
+      "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
@@ -379,8 +380,7 @@
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
-      "2025-05-03": 1440,
-      "2025-05-02": 831
+      "2025-05-03": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/triage.mapmaker.nl.ico",
     "slug": "django-triage",
     "status": "down",
-    "uptime": "66.72%",
+    "uptime": "66.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.37%",
-    "time": 727,
+    "uptimeYear": "0.09%",
+    "time": 726,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 565,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-01": 127,
+      "2026-05-02": 115,
+      "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
@@ -763,8 +764,7 @@
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
-      "2025-05-03": 1440,
-      "2025-05-02": 831
+      "2025-05-03": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mapmaker.nl.ico",
     "slug": "nginx",
     "status": "down",
-    "uptime": "66.72%",
+    "uptime": "66.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.37%",
+    "uptimeYear": "0.09%",
     "time": 117,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 97,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-01": 127,
+      "2026-05-02": 115,
+      "2026-05-01": 1440,
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
@@ -1147,8 +1148,7 @@
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
-      "2025-05-03": 1440,
-      "2025-05-02": 831
+      "2025-05-03": 1440
     }
   },
   {
@@ -1163,9 +1163,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 151,
-    "timeWeek": 153,
-    "timeMonth": 162,
+    "timeDay": 198,
+    "timeWeek": 163,
+    "timeMonth": 161,
     "timeYear": 184,
     "dailyMinutesDown": {}
   }
