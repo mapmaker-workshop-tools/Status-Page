@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mapmaker.nl.ico",
     "slug": "django-production",
     "status": "down",
-    "uptime": "59.14%",
+    "uptime": "59.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 687,
+    "time": 678,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-18": 136,
+      "2026-09-19": 138,
+      "2026-09-18": 1440,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
@@ -379,8 +380,7 @@
       "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
-      "2025-09-20": 1440,
-      "2025-09-19": 1440
+      "2025-09-20": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/triage.mapmaker.nl.ico",
     "slug": "django-triage",
     "status": "down",
-    "uptime": "59.14%",
+    "uptime": "59.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 679,
+    "time": 670,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-18": 137,
+      "2026-09-19": 139,
+      "2026-09-18": 1440,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
@@ -763,8 +764,7 @@
       "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
-      "2025-09-20": 1440,
-      "2025-09-19": 1440
+      "2025-09-20": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mapmaker.nl.ico",
     "slug": "nginx",
     "status": "down",
-    "uptime": "59.14%",
+    "uptime": "59.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 114,
+    "time": 111,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-18": 137,
+      "2026-09-19": 139,
+      "2026-09-18": 1440,
       "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 1440,
@@ -1147,8 +1148,7 @@
       "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
-      "2025-09-20": 1440,
-      "2025-09-19": 1440
+      "2025-09-20": 1440
     }
   },
   {
@@ -1163,9 +1163,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 198,
-    "timeWeek": 197,
-    "timeMonth": 188,
+    "timeDay": 145,
+    "timeWeek": 175,
+    "timeMonth": 189,
     "timeYear": 182,
     "dailyMinutesDown": {}
   }
